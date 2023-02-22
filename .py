@@ -19,7 +19,7 @@ headers = {
 # Define the payload dictionary
 payload = {
     "username": "fnln@domain.com",
-# "a" can be replaced with desired character
+# "a" can be replaced with desired injection
     "password": "password" + "a",
     "submit": "Login"
 }
